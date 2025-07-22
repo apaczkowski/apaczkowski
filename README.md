@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adam Paczkowski
+# 👋 Adam Paczkowski
 
 🎓 Recent Computer Science graduate from Maryville University with a minor in Data Analytics  
 💻 Passionate about full-stack development, scripting, and turning complex problems into practical solutions  
